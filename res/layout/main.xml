@@ -20,6 +20,10 @@
                       android:layout_height="wrap_content"
                       android:textAppearance="?android:textAppearanceLarge"
                       android:text="Please, Shake your Device..."/>
+            <TextView android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:textAppearance="?android:textAppearanceLarge"
+                      android:text="Please, Shake your Devicejjjjj..."/>
 
         </LinearLayout>
     </ScrollView>
